@@ -21,6 +21,7 @@ O melhor de tudo é que tudo é **JAVASCRIPT** 🚀🚀.
 - **Componentização**
   - Consiste em dividir parte do nosso código em componentes que tem funcionalidades especificas (Vejamos a imagem abaixo);
   - Vemos o **CommentForm** ele basicamente um formulário para adicionar comentarios, qualquer tela que quisermos chamar este formulário é so instanciar o componente e colocar na tela e assim por diante;
+[![React Component Tree](https://raw.githubusercontent.com/victorreinor/o-que-e-react/master/react-component-tree.webp "React Component Tree")](https://raw.githubusercontent.com/victorreinor/o-que-e-react/master/react-component-tree.webp "React Component Tree")
   - **Quando componentizar?** Componentização acontece quando conseguimos isolar a logica do componente de forma que não afetara o restante da aplicação.
 - **Divisão de responsabilidades**
   - Deixamos o front-end somente para interfaces e nosso back-end cuidando da nossa regra de negocio, por exemplo um carrinho de compras quando adicionamos um cupom de desconto, calculamos os descontos no nosso back-end para nao ter nenhuma interferencia do front-end
